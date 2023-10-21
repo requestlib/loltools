@@ -1,0 +1,16 @@
+暗黑元首: {"total": 201, "win": 112, "fail": 89, "win_rate": 55.72}
+九尾妖狐: {"total": 154, "win": 81, "fail": 73, "win_rate": 52.6}
+潮汐海灵: {"total": 250, "win": 130, "fail": 120, "win_rate": 52.0}
+发条魔灵: {"total": 152, "win": 78, "fail": 74, "win_rate": 51.32}
+铸星龙王: {"total": 160, "win": 82, "fail": 78, "win_rate": 51.25}
+虚空先知: {"total": 154, "win": 78, "fail": 76, "win_rate": 50.65}
+解脱者: {"total": 230, "win": 114, "fail": 116, "win_rate": 49.57}
+疾风剑豪: {"total": 305, "win": 151, "fail": 154, "win_rate": 49.51}
+离群之刺: {"total": 185, "win": 91, "fail": 94, "win_rate": 49.19}
+未来守护者: {"total": 192, "win": 94, "fail": 98, "win_rate": 48.96}
+刀锋之影: {"total": 142, "win": 69, "fail": 73, "win_rate": 48.59}
+封魔剑魂: {"total": 275, "win": 133, "fail": 142, "win_rate": 48.36}
+卡牌大师: {"total": 195, "win": 93, "fail": 102, "win_rate": 47.69}
+影流之主: {"total": 212, "win": 101, "fail": 111, "win_rate": 47.64}
+邪恶小法师: {"total": 170, "win": 80, "fail": 90, "win_rate": 47.06}
+冰霜女巫: {"total": 168, "win": 73, "fail": 95, "win_rate": 43.45}

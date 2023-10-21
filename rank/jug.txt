@@ -1,0 +1,15 @@
+解脱者: {"total": 165, "win": 96, "fail": 69, "win_rate": 58.18}
+皎月女神: {"total": 151, "win": 80, "fail": 71, "win_rate": 52.98}
+时间刺客: {"total": 292, "win": 154, "fail": 138, "win_rate": 52.74}
+法外狂徒: {"total": 580, "win": 305, "fail": 275, "win_rate": 52.59}
+德玛西亚皇子: {"total": 341, "win": 177, "fail": 164, "win_rate": 51.91}
+狂厄蔷薇: {"total": 203, "win": 104, "fail": 99, "win_rate": 51.23}
+含羞蓓蕾: {"total": 172, "win": 87, "fail": 85, "win_rate": 50.58}
+德邦总管: {"total": 145, "win": 73, "fail": 72, "win_rate": 50.34}
+无极剑圣: {"total": 195, "win": 98, "fail": 97, "win_rate": 50.26}
+影流之镰: {"total": 341, "win": 170, "fail": 171, "win_rate": 49.85}
+虚空掠夺者: {"total": 400, "win": 198, "fail": 202, "win_rate": 49.5}
+狂野女猎手: {"total": 164, "win": 81, "fail": 83, "win_rate": 49.39}
+破败之王: {"total": 230, "win": 113, "fail": 117, "win_rate": 49.13}
+岩雀: {"total": 143, "win": 68, "fail": 75, "win_rate": 47.55}
+盲僧: {"total": 484, "win": 215, "fail": 269, "win_rate": 44.42}

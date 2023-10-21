@@ -1,0 +1,13 @@
+海洋之灾: {"total": 169, "win": 90, "fail": 79, "win_rate": 53.25}
+铁铠冥魂: {"total": 145, "win": 77, "fail": 68, "win_rate": 53.1}
+蛮族之王: {"total": 138, "win": 73, "fail": 65, "win_rate": 52.9}
+德玛西亚之力: {"total": 384, "win": 199, "fail": 185, "win_rate": 51.82}
+荒漠屠夫: {"total": 399, "win": 200, "fail": 199, "win_rate": 50.13}
+未来守护者: {"total": 193, "win": 95, "fail": 98, "win_rate": 49.22}
+诺克萨斯之手: {"total": 358, "win": 176, "fail": 182, "win_rate": 49.16}
+武器大师: {"total": 247, "win": 119, "fail": 128, "win_rate": 48.18}
+沙漠死神: {"total": 189, "win": 91, "fail": 98, "win_rate": 48.15}
+熔岩巨兽: {"total": 246, "win": 116, "fail": 130, "win_rate": 47.15}
+无双剑姬: {"total": 260, "win": 119, "fail": 141, "win_rate": 45.77}
+暗裔剑魔: {"total": 306, "win": 140, "fail": 166, "win_rate": 45.75}
+腕豪: {"total": 132, "win": 56, "fail": 76, "win_rate": 42.42}
